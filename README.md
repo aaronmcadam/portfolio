@@ -72,16 +72,16 @@ __Note:__ Any configuration option labelled as "Required" is needed for basic pr
 
 The configuration variables referenced above are used as follows:
 
-| Variable | Description of Use |
-|----------|--------------------|
-| title | The title of the blog. This is used for the page title primarily. |
-| author | The author of the blog. This is used for the header name and page title. |
-| description | The description of the author. This is used for the header under the author. |
-| primaryColor | The primary color of the blog. |
-| showHeaderImage | Flag to show the header image or not. |
-| showShareButtons  | Flag to show social media share buttons on each blog post or not. |
-| postsPerPage | The number of posts per page on the blog homepage. This is used for pagination. |
-| social | Social media profiles of the blog author. Currently only personal website, Github, Twitter, and LinkedIn are supported.|
+| Variable         | Description of Use                                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| title            | The title of the blog. This is used for the page title primarily.                                                       |
+| author           | The author of the blog. This is used for the header name and page title.                                                |
+| description      | The description of the author. This is used for the header under the author.                                            |
+| primaryColor     | The primary color of the blog.                                                                                          |
+| showHeaderImage  | Flag to show the header image or not.                                                                                   |
+| showShareButtons | Flag to show social media share buttons on each blog post or not.                                                       |
+| postsPerPage     | The number of posts per page on the blog homepage. This is used for pagination.                                         |
+| social           | Social media profiles of the blog author. Currently only personal website, Github, Twitter, and LinkedIn are supported. |
 
 #### Changing the main header image
 

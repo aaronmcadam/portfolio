@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Portfolio', // Required
+  author: 'Aaron Mc Adam', // Required
+  description: 'Software Engineer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://aaronmcadam.com',
+    github: 'https://github.com/aaronmcadam',
+    twitter: 'https://twitter.com/aaronmcadam',
+    linkedin: 'https://www.linkedin.com/in/aaronmcadam/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/portfolio',
+  siteUrl: 'https://ryanfitzgerald.github.io/portfolio/',
 };
